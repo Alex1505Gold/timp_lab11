@@ -64,3 +64,6 @@ tmux a -t session_with_group
 ![screen02](./screens/screen08.png)</br>
 ![screen06](./screens/screen09.png)</br>
 ![screen01](./screens/screen10.png)</br>
+![screen02](./screens/screen11.png)</br>
+![screen06](./screens/screen12.png)</br>
+![screen01](./screens/screen13.png)</br>
